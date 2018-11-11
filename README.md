@@ -6,7 +6,7 @@
 
 
 
-![CCChart pie](https://raw.githubusercontent.com/ccworld1000/CCLog/master/CCChart/doc/screenshot/default.png)
+![CCChart pie](https://raw.githubusercontent.com/ccworld1000/CCChart/master//doc/screenshot/default.png)
 
 
 
@@ -16,5 +16,5 @@ The call will generate a default "default.png" in the command line execution dir
 
 
 
-![CCChart test](https://raw.githubusercontent.com/ccworld1000/CCLog/master/CCChart/doc/screenshot/test.png)
+![CCChart test](https://raw.githubusercontent.com/ccworld1000/CCChart/master/doc/screenshot/test.png)
 

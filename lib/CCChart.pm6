@@ -82,7 +82,6 @@ sub pie (@values, @titles = (), @colors = (), int32 $width = 300, int32 $height 
       my $step = 1;
       my $accumulation = 0;
 
-
       for @scales -> $s {
         my $percent = $s * 100;
         ccloop "$s | $percent\%" if $isDebug;
