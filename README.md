@@ -2,6 +2,24 @@
 
 
 
+## Local installation and unloading
+
+```shell
+zef install .
+zef uninstall CCChart
+```
+
+## 
+
+## Network install
+
+```shell
+zef update
+zef install CCChart
+```
+
+## 
+
 ## CCChart pie
 
 
