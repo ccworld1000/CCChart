@@ -19,7 +19,6 @@
       "CCChart",
       "chart",
       "Pie",
-      "Perl 6",
       "draw",
       "line",
       "graphics",
@@ -28,8 +27,6 @@
       "trend",
       "Cairo",
       "CCLog",
-      "Raku",
-      "Perl",
       "png"
    ],
     "source-url" : "https://github.com/ccworld1000/CCChart.git"
